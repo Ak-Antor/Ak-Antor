@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak-antor" alt="ak-antor" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/x.com/antor_web" target="blank"><img src="https://img.shields.io/twitter/follow/x.com/antor_web?logo=twitter&style=for-the-badge" alt="x.com/antor_web" /></a> </p>
 
 - 🔭 I’m currently working on [plant'x](https://github.com/Ak-Antor/Plant-x.git)
 
