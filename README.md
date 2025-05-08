@@ -6,10 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak-antor" alt="ak-antor" /></a> </p>
 
 
-- 🔭 I’m currently working on [plant'x](https://github.com/Ak-Antor/Plant-x.git)
-
-- 👯 I’m looking to collaborate on [furniture](https://github.com/Ak-Antor/furniture-project-02.git)
-
 - 📫 How to reach me **antorremeni@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
