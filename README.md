@@ -11,7 +11,6 @@
 <a href="https://stackoverflow.com/antor-web-deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/30420344/antor-web-deb" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=61573511761805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61573511761805" height="30" width="40" /></a>
 <a href="https://instagram.com/antor_web_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/antor_web_dev/" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/@antor_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@antor_web" height="30" width="40" /></a>
 </p>
 
