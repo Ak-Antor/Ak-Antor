@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋, I'm Antor-Wev_Deb</h1>
+<h1 align="center">Hi, I'm Antor-Wev_Deb</h1>
 <h3 align="center">A junior frontend & react developer from bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-antor&label=Profile%20views&color=0e75b6&style=flat" alt="ak-antor" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak-antor" alt="ak-antor" /></a> </p>
-
 
 - 📫 How to reach me **antorremeni@gmail.com**
 
